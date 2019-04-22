@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## About This Site
 
-You can use the [editor on GitHub](https://github.com/coworking/coworkinghelp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This page was born out of many conversations at coworking conferences where fellow coworking
+enthusiasts have talked about creating a simple list of consultants to make it easier
+for everyone to find help.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We've also created a [Consultants Facebook Group](https://www.facebook.com/groups/1204781973014967/) and
+[#consultants](https://coworkingleadership.slack.com/messages/CH7RF8B5J) on the
+[Coworking Slack Channel](https://join.slack.com/t/coworkingleadership/shared_invite/enQtNDM0MTM4OTYxOTQwLTliMTYwNzdjYTgzOGU3ZDJjYmRmZGYyY2RlMzI1ZjQxZWU2ZTE3MWM1MmFmZGY5MDM2MzQwMTZmZDc2NzExMjg).
+For ongoing discussions, the best place is [The Coworking Forum](https://forum.coworking.org/).
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/coworking/coworkinghelp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The site is hosted on GitHub and all the data is stored in a simple airtable.
+The functionality of this site will grow over time.  It's still early days.
