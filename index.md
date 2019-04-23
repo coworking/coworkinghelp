@@ -4,10 +4,10 @@ This page was born out of many conversations at coworking conferences where fell
 enthusiasts have talked about creating a simple list of consultants to make it easier
 for everyone to find help.  
 
-We've also created a [Consultants Facebook Group](https://www.facebook.com/groups/1204781973014967/) and
+[Jacob](https://kanawha.design/jacobsayles) created this using GitHub and Airtable.
+To collaborate with other consultants, [Iris](https://www.facebook.com/slickiris) created a
+[Consultants Facebook Group](https://www.facebook.com/groups/1204781973014967/).
+We also have
 [#consultants](https://coworkingleadership.slack.com/messages/CH7RF8B5J) on the
 [Coworking Slack Channel](https://join.slack.com/t/coworkingleadership/shared_invite/enQtNDM0MTM4OTYxOTQwLTliMTYwNzdjYTgzOGU3ZDJjYmRmZGYyY2RlMzI1ZjQxZWU2ZTE3MWM1MmFmZGY5MDM2MzQwMTZmZDc2NzExMjg).
 For ongoing discussions, the best place is [The Coworking Forum](https://forum.coworking.org/).
-
-The site is hosted on GitHub and all the data is stored in a simple airtable.
-The functionality of this site will grow over time.  It's still early days.
