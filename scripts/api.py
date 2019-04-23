@@ -7,10 +7,17 @@
 # VIEW_NAME="View Name for Airtable"
 ######################################################################
 
+import yaml
 from airtable import Airtable
-
 import local_settings as settings
 
 
+DATA_FILE = "../consultants.yml"
+
 airtable = Airtable(settings.BASE_KEY, settings.TABLE_NAME, api_key=settings.API_KEY)
-# print(airtable.get_all(view=settings.VIEW_NAME, maxRecords=20))
+
+
+def dump_all_data():
+    data = airtable.get_all(view=settings.VIEW_NAME)
+    with open(DATA_FILE, 'w') as yaml_file:
+        yaml.dump(data, yaml_file, default_flow_style=False)

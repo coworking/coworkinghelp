@@ -1,0 +1,23 @@
+- createdTime: '2019-04-22T22:15:55.000Z'
+  fields:
+    Company: Kanawha Design Studio
+    Email: jacob@kanawha.design
+    Location: Vancouver, BC
+    Name: Jacob Sayles
+    Tags:
+    - Technology
+    - Operations
+    - Outreach
+    Website: https://kanawha.design
+  id: recm0C0HgAvls2t40
+- createdTime: '2019-04-22T22:15:55.000Z'
+  fields:
+    Company: Kanawha Design Studio
+    Email: katie@kanawha.design
+    Location: Vancouver, BC
+    Name: Katie Davis-Sayles
+    Tags:
+    - Design
+    - Architecture
+    Website: https://kanawha.design
+  id: recTmggskaEq1zEbg
