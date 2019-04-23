@@ -1,3 +1,11 @@
+# Jekyll Stuff
 .sass-cache
 _site/
+
+# Ruby Stuff
 Gemfile.lock
+
+# Python Stuff
+.venv/
+__pycache__/
+local_settings.py
